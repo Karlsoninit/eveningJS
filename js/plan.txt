@@ -1,4 +1,0 @@
-//callback
-//counter
-//destructuring
-

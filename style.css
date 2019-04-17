@@ -1,43 +1,9 @@
 
 
 
-.main {
-    margin: 0 auto;
-    width: 300px;
-}
-
-.textColor {
-    color: aqua;
-    font-size: 60px;
-}
 
 
-.gallery {
-    text-align: center;
-    width: 600px;
-    margin: 0 auto;
-    
-    height: 400px;
-    overflow: hidden;
-}
 
-.images {
-    position: relative;
-}
-
-img {
-    position: absolute;
-    width: 100%;
-    opacity: 0;
-    transition: opacity 200ms;
-    left: 0;
-    top: 0;
-}
-
-img:first-child {
-    opacity: 1;
-}
-
-.showed {
-    opacity: 1;
+.image {
+    width: 400px;
 }
